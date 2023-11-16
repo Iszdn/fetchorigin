@@ -1,0 +1,35 @@
+{
+  "weath": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "products":[
+    {
+      "id":2,
+      "image":"https://www.stama.co/wp-content/uploads/CHOCOLATEROSHENMILKWITHCARAMELFILLING30g.jpg",
+     "title":"roshen",
+     "price":"3",
+     "taste":"caramel"
+    },
+    {
+      "id":3,
+      "image":"https://tekdukan.com/cdn/shop/products/Untitleddesign_35.png?v=1673546850&width=750",
+     "title":"roshen",
+     "price":"1",
+     "taste":"milk"
+    },
+    {
+      "id":4,
+      "image":"https://www.roshen.com/uploads/content/2021/11/05/source/baton_chocolate_peanuts_comp-3822x.png",
+     "title":"roshen",
+     "price":"2",
+     "taste":"peanuts"
+    }
+  ]
+}
